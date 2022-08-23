@@ -1,0 +1,15 @@
+.App {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.top {
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+}
+
